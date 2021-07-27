@@ -10,8 +10,8 @@
 
 ## Deploy, Run and Test
 
-- [deployed link]()
-- [Pull Request]()
+- [deployed link](https://95f7mtuf38.execute-api.us-east-1.amazonaws.com)
+- [Pull Request](https://github.com/Hatemhusnieh/serverless-api-/pull/1)
 
 ## Routes:
 
